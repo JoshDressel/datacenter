@@ -1,0 +1,6 @@
+#!/bin/sh
+# script works from root account for LXC container
+# add sudo for standard Debian/Ubuntu installs
+# read wiki for post-install instructions
+apt update && apt full-upgrade -y
+apt install docker.io
