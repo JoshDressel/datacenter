@@ -1,3 +1,4 @@
-# datacenter
+# Datacenter
 Proxmox Datacenter</br></br>
-Collected bash code/scripts to make setup easier.
+![ProxmoxVE Screenshot](https://github.com/JoshDressel/datacenter/blob/main/image.png)
+Recipes for a smooth setup.
