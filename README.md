@@ -1,4 +1,4 @@
-# Datacenter
-ProxmoxVE Datacenter</br></br>
-![ProxmoxVE Screenshot](https://github.com/JoshDressel/datacenter/blob/main/pve.png)
-Recipes for a smooth setup.
+# Proxmox VE Datacenter
+Virtualize all the things. Recipes for a smooth setup.</br></br>
+![ProxmoxVE Screenshot](./pve.png)
+[Proxmox](https://www.proxmox.com)
